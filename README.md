@@ -1,5 +1,5 @@
 # Articles Management
-> It is web based Mini Project to Manage Articles. My Project stores the records of all articles, also delete and edit Articles.
+> It is web based mini project to manage articles. It stores the records of all articles, also delete and update articles. It has Admin panel to manage articles and Login system to ensure security. 
 
 ## Languages Used
 
